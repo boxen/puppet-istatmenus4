@@ -1,15 +1,7 @@
 # iStat Menus 4 Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include istatmenus4
-```
-
-## Developing
-
-Write code.
-
-Run `script/cibuild`.
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
